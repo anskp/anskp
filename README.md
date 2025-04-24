@@ -48,65 +48,6 @@
 
 <hr>
 
-<!-- Backend Section -->
-<div align="center">
-  <h3>🧠 Backend</h3>
-
-  <!-- Level 1 -->
-  <div>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  </div>
-
-  <!-- Level 2 -->
-  <div>
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  </div>
-
-  <!-- Level 3 -->
-  <div>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  </div>
-</div>
-
-
-<hr>
-
-<!-- Web3 & Blockchain Section -->
-<div align="center">
-  <h3>🔗 Web3 & Blockchain</h3>
-
-  <!-- Level 1 -->
-  <div>
-    <img src="https://img.shields.io/badge/Fireblocks-000000?style=for-the-badge" />
-  </div>
-
-  <!-- Level 2 -->
-  <div>
-    <img src="https://img.shields.io/badge/Wormhole-00FFFF?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Crossmint-1D4ED8?style=for-the-badge" />
-  </div>
-
-  <!-- Level 3 -->
-  <div>
-    <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pinata-FFD700?style=for-the-badge&logo=pinata&logoColor=black" />
-  </div>
-
-  <!-- Level 4 -->
-  <div>
-    <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
-    <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
-  </div>
-
-  <!-- Level 5 -->
-  <div>
-    <img src="https://img.shields.io/badge/Thirdweb-000000?style=for-the-badge&logo=thirdweb&logoColor=white" />
-  </div>
-</div>
-
-
-
 
 <!-- Frontend Section -->
 <div align="center">
