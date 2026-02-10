@@ -1,10 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammed Anas KP
 ========================================================================================================================================
 
-I'm a bit of everything... 🧑‍💻 Full-Stack Developer | 🧠 AI & Prompt Engineer | 🛡️ Ethical Hacker | 🕸️ Web3 Builder | 📱 Mobile Dev | 🎨 3D & Creative Tech Enthusiast
+Full-Stack Developer | Cybersecurity Specialist | Web3 & Blockchain Builder | Mobile Developer | Creative Technologist
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Hi! I'm a multi-talented developer who loves building things that actually work — and making sure they're secure, smart, and scalable 🔥 🚀 By day, I craft full-stack apps using React, Node.js, Prisma, and Tailwind. 🕷️ By night? You might catch me patching zero-days or doing some ethical hacking (but you didn’t hear that from me 🤫). 🧩 What I Do 🧑‍💻 Full-Stack Dev: React • Next.js • Node.js • REST & GraphQL 🔐 Cybersecurity: Pen testing • Secure APIs • Threat modeling 🌐 Blockchain: Ethereum • Solana • Smart Contracts • Web3 tools 🧠 AI & Prompt Engineering: LLMs • PSO • Predictive models 📊 Data Science: Regression • Visualizations • Analytics 📱 Mobile Dev: iOS & Android (React Native + Expo) 🧙‍♂️ 3D & Creative: Three.js • Blender • Spline • Framer Motion 🎯 Why I Build 📚 Always learning 🌍 Solving real problems 🤝 Collaborating with builders 🎨 Mixing creativity with code
+I’m a developer focused on building secure, scalable, and reliable applications.
+
+I work as a Full-Stack Developer using technologies like React, Next.js, Node.js, Prisma, and Tailwind.
+
+I also specialize in Cybersecurity, including penetration testing, secure API development, and threat modeling.
+
+In addition, I build Blockchain and Web3 solutions using Ethereum, Solana, and smart contracts.
+
 
 *   🌍  I'm based in india
 *   🖥️  See my portfolio at [working](http://exampe.com)
