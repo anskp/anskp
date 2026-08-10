@@ -91,9 +91,11 @@ Fireblocks, Crossmint, Chainlink, Wormhole, IPFS
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anskp&show_icons=true&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anskp&theme=github_dark" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anskp&theme=github_dark" height="180" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anskp&layout=compact&theme=github_dark)
 
 ## Contribution Graph
 
