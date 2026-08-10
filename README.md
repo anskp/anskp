@@ -97,7 +97,7 @@ Fireblocks, Crossmint, Chainlink, Wormhole, IPFS
 
 ## Contribution Graph
 
-![GitHub Snake](https://raw.githubusercontent.com/anskp/anskp/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/anskp/anskp/blob/output/github-snake-dark.svg)
 
 ## Connect
 
